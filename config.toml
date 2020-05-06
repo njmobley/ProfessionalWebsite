@@ -1,0 +1,82 @@
+baseURL = "http://njmobley.github.io/"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Student Statistician"
+theme = "anatole"
+summarylength = 30
+enableEmoji = false
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+[params]
+title = "Nicholas Mobley"
+author = "Nicholas J Mobley"
+description = "Indiana University Statistics Major"
+profilePicture = "/images/profile.jpg"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/nick-mobley-990a95175/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/njmobley"
+
+# [[params.socialIcons]]
+# icon = "fa-instagram"
+# title = "instagram"
+# url = "https://www.instagram.com/"
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+title = "e-mail"
+url = "mailto::nmobley45@gmail.com"
+
+[[params.socialIcons]]
+icon = 'fa-twitter'
+title = 'twitter'
+url = 'https://twitter.com/nickmobley15'
+
+[[params.socialIcons]]
+icon = 'fa-file'
+title = "Download Resume"
+url = "Resume.docx"
+
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Personal"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+  
+
+  [[menu.main]]
+  name = "Projects"
+  weight = 150
+  identifier = "projects"
+  url = "/projects/"
