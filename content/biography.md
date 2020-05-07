@@ -21,4 +21,6 @@ problems, I won't be able to solve in my lifetime.
 
 # Hobbies and Non-Academic Intrests
 
-Sports is one of my favorite past times, it is actually the reason I got interested in Statistics! From a statistical stand point I think baseball has to be my favorite sport due to the immense amount of data available. However, from a non statistical point of view Soccer's nonstop action has to be the most entertaining. Entertainment wise I enjoy watching Anime with my girlfriend. My Hero Academia and Mob Psycho 100 have to be among my favorites!
+Sports is one of my favorite past times, it is actually the reason I got interested in Statistics! From a statistical stand point I think baseball has to be my favorite sport due to the immense amount of data available. However, from a non statistical point of view Soccer's nonstop action has to be the most entertaining. Entertainment wise I enjoy watching Anime with my girlfriend. My Hero Academia and Mob Psycho 100 have to be among my favorites! I also enjoy traveling the world. Last Summer I took a trip to Vietnam, South Korea, and Japan. The expiernce was remarkable and I've been anxious to travel once again. I frequently post pictures of my travels. Sight seeing is my personal favorite activity so I try to share that with others as much as I can!
+
+

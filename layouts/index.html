@@ -6,6 +6,9 @@
         <div class="post-content">
             {{ .Content }}
         </div>
+        <figure>
+          <img src = "images/Halong.JPG" style = "border-radius:16px;width:50%;padding-left:5%" />
+        </figure>
         {{ else if eq .Type "post"}}
         <div>
             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>

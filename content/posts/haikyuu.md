@@ -13,3 +13,5 @@ season. However, this show's last arc was able to keep me on the edge of my seat
 the characters. The show spends its' time developing all the characters instead of using the plot to drive the show. This character focused storyline has made me invested in all the asprining high school athletes, reminding
 me of my time with my high school soccer team. I recommend to anybody nostaligic for their high school team to sit 
 down and watch the series, you won't regret the trip down memory lane.
+
+
